@@ -1,4 +1,4 @@
-/* ACOPER — кровля под ключ. Все цены — в <script id="calc-data"> в index.html / ro.html */
+/* Acoperirea — кровля под ключ. Все цены — в <script id="calc-data"> в index.html / ro.html */
 (() => {
   const $ = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => [...r.querySelectorAll(s)];

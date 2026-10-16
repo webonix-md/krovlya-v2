@@ -1,4 +1,4 @@
-/* ============ ACOPER v2 — кровля под ключ ============
+/* ============ Acoperirea v2 — кровля под ключ ============
    «Архитектурный» вариант: кремовый фон, графит и терракота (цвет черепицы),
    строгая сетка с тонкими линиями, прямые углы, номера разделов, Geometria + Cera Pro. */
 
@@ -96,7 +96,7 @@ svg{width:1em;height:1em;fill:none;stroke:currentColor;stroke-width:1.7;stroke-l
 /* ---------- шапка ---------- */
 .hdr{position:fixed;inset:0 0 auto;z-index:50;height:var(--hdr);background:rgba(244,239,231,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 .hdr__in{height:100%;display:flex;align-items:center;gap:36px;padding:0 var(--pad)}
-.logo{display:flex;align-items:center;gap:10px;font:700 22px/1 var(--fh);letter-spacing:.14em}
+.logo{display:flex;align-items:center;gap:10px;font:700 22px/1 var(--fh);letter-spacing:.02em}
 .logo i{width:22px;height:14px;background:var(--terra);clip-path:polygon(50% 0,100% 100%,0 100%)}
 .logo i{order:-1}
 .nav{display:flex;gap:30px;margin:0 auto;font-size:14.5px;color:var(--mu)}
